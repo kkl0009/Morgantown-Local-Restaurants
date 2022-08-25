@@ -1,3 +1,5 @@
+**NOTE: This is not the original repository for this project. The original version has over 200 commits in it**
+
 **Link for accessing web app:** http://3.234.226.236/
 
 # WVU_CS230_2020.08_Group06
