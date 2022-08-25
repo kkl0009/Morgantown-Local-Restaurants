@@ -1,0 +1,42 @@
+.bg-cover {
+    background-image: url("../images/balcony.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: "center";
+}
+
+.inputarea{
+    opacity: 0.9;
+    border-radius: 50px;
+    background-color: lightgray;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.innerarea{
+    margin-bottom: 10px;
+}
+
+#prof-display {
+    display: block;
+        
+    width: 150px;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+    
+#uname-style {
+    color: green;
+    font-size: 40px;
+    font-family: "Lucida Console", 'Times New Roman', Times, serif, monospace;
+    font-weight: bold;
+}

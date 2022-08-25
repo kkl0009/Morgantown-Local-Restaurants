@@ -1,0 +1,40 @@
+main{
+    background: url("../images/city.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-cover {
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.container {
+    position: fixed;
+    right: -100;
+    top: 100;
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.form-signin {
+    padding: 30px;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.my-auto{
+    color: black;
+    margin-left: 300;
+    margin-right: 800;
+}

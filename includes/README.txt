@@ -1,0 +1,12 @@
+---- includes directory ----
+This directory contains many of the helper functions utilized by various webpages
+-dbhandler.php: controls database manipulation
+-get-ratings.php: gets the ratings from the database for restpage
+-header.php: the header that appears on every webpage
+-login-helper.php: helps login.php check the database for an incoming user
+-logout.php: logs out a user
+-mailbox-helper.php: helps mailbox.php get mail from the database
+-review-helper.php: helps restpage send a review to the database
+-s3-upload-helper: helps with s3 uploads
+-signup-helper.php: helps signup.php create a new user in the database
+-upload-helper: helps profile.php send user information to the database

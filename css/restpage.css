@@ -1,0 +1,83 @@
+/* Styles for restpage.php */
+/* Written by: Christopher Tonkin */
+
+main {
+	background-image: url("../images/city.jpg");
+}
+
+ .outer {
+     width: auto;
+     height: auto;
+    overflow: auto;
+ }
+
+.container {
+    padding: 10px;
+    margin: 10px auto;
+    max-width: 1000px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #e7e7f79f;
+}
+
+#restList {
+    padding-inline-start: 0;
+    border-color: #003300;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 20px;
+}
+
+.restaurant {
+    list-style-type: none;
+    background-color: #dddddd;
+    border-radius: 2px;
+    padding: 5px 20px;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    grid-template-areas:
+        'name image'
+        'type image'
+        'address image'
+        'description image';
+    text-align: left;
+}
+
+.restaurant > a {
+    grid-area: name;
+    font-size: 25px;
+    font-style: bold;
+    color: #640043;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+
+.restaurant > h2 {
+    grid-area: type;
+    font-style: italic;
+    color:#505050;
+    font-size: 15px;
+    margin: 0;
+    margin-top: 2px;
+}
+.restaurant > h3 {
+    grid-area: address;
+    font-style: underline;
+    color: #505050;
+    font-size: 18px;
+    margin: 0;
+    margin-top: 2px;
+}
+
+.restaurant > p {
+    grid-area: description;
+    font-size: 15px;
+    margin: 0;
+    margin-top: -2px;
+}
+
+.restaurant > img {
+    height: 200px;
+    max-width: 250px;
+    grid-area: image;
+}

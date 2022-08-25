@@ -1,0 +1,14 @@
+---- css directory ----
+This directory contains all the css stylesheets for the webpages
+-about.css: stylesheet for about.php
+-all.css: stylesheet helper for FontAwesome
+-bootstrap. ...: stylesheets for various bootstrap amenities
+-Home.css: stylesheet for index.php
+-login.css: stylesheet for login.php
+-mailbox.css: stylesheet for mailbox.php
+-mailer.css: stylesheet for mailer.php
+-map.css: stylesheet for map.php
+-profile.css: stylesheet for profile.php
+-restaurants.css: stylesheet for restaurants.php
+-restpage.css: stylesheet for restpage.php
+-signup.css: stylesheet for signup.php

@@ -1,0 +1,81 @@
+.column {
+	fLoat: left;
+	width: 23%;
+	margin-bottom: 16px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 0 8px;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	margin: 8px;
+}
+
+.about-section {
+	background-image: url("../images/city.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.container {
+	padding: 0 16px;
+}
+
+//declares the title color 
+.title {
+	color: rgb(128, 128, 128);
+}
+
+//declares the button color position and other attributes.
+.button {
+	border: none;
+	outline: 0;
+	display: inline-block;
+	padding: 8px;
+	color: white;
+	background-color: #004d00;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+}
+
+//changes the buttons color when the cursor hovers over it.
+.button:hover {
+	background-color: #55552b;
+}
+
+.carousel-item img {
+	width: auto;
+	height: 300px;
+	max-height: 300px;
+	margin: auto;
+	display: block;
+}
+
+.restaurant {
+	height: 200px;
+}
+
+.resimg {
+	height: 200px;
+	width: auto;
+}
+
+h1{
+    background-image: url("../images/map.jpg");
+    position:relative;
+    display: inline-block;
+    margin:0 25px;
+    padding:0 10px;
+    height:40px;
+}
+
+//sets the header to a background image.
+#header-background{
+    width: 100%;
+    height:100px;
+    background:url("../images/map.jpg");
+}
