@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Ta Khrai Cafe",
+        "type": ["Thai", " Asian"],
+        "address": "2862 University Ave",
+        "url": "https://www.takhraithaimorgantown.com/",
+        "image": "rest_pics/tk.jpg",
+        "description": "The Ta Khrai Cafe includes a large selection of Thai food, with a menu that includes a vegetarian section. They also have several affordable lunch specials on weekdays.",
+        "bg_image": "rest_pics/tkcbg.jpg",
+        "rest_id": "1"
+    },
+    {
+        "name": "Bombay Indian Grill",
+        "type": "Indian",
+        "address": "2011 University Ave",
+        "url": "https://bombayindiangrillmorgantown.com/35715",
+        "image": "rest_pics/bb.jpg",
+        "description": "The Bombay Indian Grill serves authentic Indian food, with several options both vegetarian and non-vegetarian. They also offer an assortment of desserts.",
+        "bg_image": "rest_pics/bbbg.jpg",
+        "rest_id": "2"
+    },
+    {
+        "name": "Oryza",
+        "type": "Asian",
+        "address": ["51 Donahue Dr 103, 5407 University Town Center Dr"],
+        "url": "https://oryzagrill.com/https://oryzagrill.com/",
+        "image": "rest_pics/oryza.jpg",
+        "description": "Oryza is an Asian restaurant which offers made to order cuisine based on rice. Toppings include specially grilled meats and tofu, as well as an assortment of vegetables and sauces.",
+        "bg_image": "rest_pics/obg.jpg",
+        "rest_id": "3"
+    },
+    {
+        "name": "Cairo 2 Go",
+        "type": "Egyptian",
+        "address": "1006 Suncrest Towne Center Drive",
+        "url": "https://www.cairo2go.com/",
+        "image": "rest_pics/c2g.jpg",
+        "description": "Cairo 2 Go serves fresh Middle-Eastern style cuisine, and they specialize in shawarma, which they describe as a Middle Eastern-style taco of burrito.",
+        "bg_image": "rest_pics/cgbg.jpg",
+        "rest_id": "4"
+    },
+    {
+        "name": "Los Mariachis",
+        "type": "Mexican",
+        "address": ["1137 Van Voorhis Rd", " 9105 University Town Centre Dr"],
+        "url": "https://losmariachismorgantown.com/",
+        "image": "rest_pics/lm.jpg",
+        "description": "Los Mariachis is a Mexican restaurant with with 2 locations in the Morgantown area. They offer several lunch combos as well as Mexican-style desserts and beverages.",
+        "bg_image": "rest_pics/lmbg.jpg",
+        "rest_id": "5"
+    },
+    {
+        "name": "Table 9",
+        "type": "American",
+        "address": "40 Donley St",
+        "url": "http://dinetable9.com/",
+        "image": "rest_pics/t9.jpg",
+        "description": "Table 9 offers a variety of pub-style sandwiches and similar foods/beverages. They also have a breakfast menu including omelets and other similar items.",
+        "bg_image": "rest_pics/t9bg.jpg",
+        "rest_id": "6"
+    },
+    {
+        "name": "Yama",
+        "type": ["Japanese", " Asian"],
+        "address": "387 1/2 High St",
+        "url": "https://www.facebook.com/Yama-Japanese-Restaurant-1378575715798919/",
+        "image": "rest_pics/yama.jpg",
+        "description": "Yama is an Asian restaurant offering udon, a Japanese noodle soup, as well as sushi and other Asian foods.",
+        "bg_image": "rest_pics/ymbg.jpg",
+        "rest_id": "7"
+    },
+    {
+        "name": "Mario's Fishbowl",
+        "type": "American",
+        "address": ["704 Richwood Ave", " 3117 University Ave", " 688 Fairmont Rd"],
+        "url": "https://www.mariosfishbowl.com/",
+        "image": "rest_pics/mf.jpg",
+        "description": "Known for their fishbowls of beer, Mario's Fishbowl serves sandwiches, wings, and other pub-style foods.",
+        "bg_image": "rest_pics/mfbg.jpg",
+        "rest_id": "8"
+    },
+    {
+        "name": "Ogawa",
+        "type": ["Japanese", " Asian"],
+        "address": "2920 University Ave",
+        "url": "http://ogawasushi.com/",
+        "image": "rest_pics/og.jpg",
+        "description": "Ogawa is a Japanese restaurant that has served sushi and other Japanese dishes to Morgantown for over 10 years.",
+        "bg_image": "rest_pics/ogwbg.jpg",
+        "rest_id": "9"
+    },
+    {
+        "name": "Lotsa Stone Fired Pizza",
+        "type": ["American", " Italian"],
+        "address": "419 High St",
+        "url": "https://lotsa.com/locations/morgantown-wv/",
+        "image": "rest_pics/lotsa.jpg",
+        "description": "Lotsa Stone Fired Pizza serves small made-to-order personal pizzas, and its location on High Street makes it a popular eating location for WVU students.",
+        "bg_image": "rest_pics/lsfpbg.jpg",
+        "rest_id": "10"
+    },
+    {
+        "name": "Pies and Pints",
+        "type": ["Pizza", " Sandwiches"],
+        "address": "1002 Suncrest Towne Centre Drive",
+        "url": "https://piesandpints.net/location/morgantown-wv/",
+        "image": "rest_pics/pandp.jpg",
+        "description": "Pies and pints offers pizza, sandwiches, and other pub-style food along with an assortment of craft beers. It is located 5 minutes from the main campus of WVU.",
+        "bg_image": "rest_pics/ppbg.jpg",
+        "rest_id": "11"
+    },
+    {
+        "name": "Black Bear Burritos",
+        "type": ["Mexican", " Casual"],
+        "address": "3119 University Ave",
+        "url": "https://www.blackbearburritos.com/",
+        "image": "rest_pics/bbb.jpg",
+        "description": "Black Bear Burritos serves a large assortment of burritos of different styles in a casual setting.",
+        "bg_image": "rest_pics/bbbbg.jpg",
+        "rest_id": "12"
+    },
+    {
+        "name": "Stefano's",
+        "type": ["Italian", " American", " Fine Dining"],
+        "address": "735 Chestnut Ridge Rd",
+        "url": "https://www.stefanoswv.com/",
+        "image": "rest_pics/stf.jpg",
+        "description": "Stefano's serves Italian and American style dishes in a more upscale setting. They are closed on Sundays and Mondays.",
+        "bg_image": "rest_pics/sfbg.webp",
+        "rest_id": "13"
+    },
+    {
+        "name": "Volcano Japanese Restaurant",
+        "type": "Japanese",
+        "address": "372 Patteson Drive",
+        "url": "http://www.crazyvolcano.com/",
+        "image": "rest_pics/vc.jpg",
+        "description": "Volcano is a Japanese restaurant specializing in sushi and rolls. It offers aeveral affordable lunch deals as well as a vegetarian menu.",
+        "bg_image": "rest_pics/vcbg.jpg",
+        "rest_id": "14"
+    },
+    {
+        "name": "Istanbul Restaurant",
+        "type": "Turkish",
+        "address": "2995 University Ave",
+        "url": "https://www.dubveatz.com/r/2432/restaurants/delivery/Turkish/Istanbul-Restaurant-Morgantown-Morgantown",
+        "image": "rest_pics/ib.jpg",
+        "description": "Istanbul Restaurant serves Turkish food including falafels and gyros and offers free delivery.",
+        "bg_image": "rest_pics/ibbg.jpg",
+        "rest_id": "15"
+    },
+    {
+        "name": "Pizza Al's",
+        "type": ["Pizza", " Casual"],
+        "address": "2952 University Ave",
+        "url": "https://www.pizzaals.com/",
+        "image": "rest_pics/pa.jpg",
+        "description": "Pizza Al's is a more traditional pizza restaurant offering hoagies and calzones in addition to the pizza. It is popular among WVU students.",
+        "bg_image": "rest_pics/pabg.jpg",
+        "rest_id": "16"
+    },
+    {
+        "name": "Green Tea Asian Fusion",
+        "type": "Asian",
+        "address": "511 Burroughs Street #106",
+        "url": "https://www.greenteawv.com/",
+        "image": "rest_pics/gtf.jpg",
+        "description": "Green Tea Asian Fusion offers fresh sushi as well as Japanese, Chinese, and Thai cuisine as well as an assortment of desserts and teas.",
+        "bg_image": "rest_pics/gtafbg.jpg",
+        "rest_id": "17"
+    },
+    {
+        "name": "Crab Shack Caribba",
+        "type": "Seafood",
+        "address": "420 Suncrest Towne Center Drive",
+        "url": "http://crabshackcaribba.com/",
+        "image": "rest_pics/csc.jpg",
+        "description": "Crab Shack Caribba offers a large selection of seafood as well as daily specials and live entertainment on Fridays and Saturdays.",
+        "bg_image": "rest_pics/cscbg.jpg",
+        "rest_id": "18"
+    },
+    {
+        "name": "Boston Beanery",
+        "type": ["American", " Seafood"],
+        "address": "383 Patteson Drive",
+        "url": "https://www.bostonbeanery.com/",
+        "image": "rest_pics/bosbe.jpg",
+        "description": "Boston Beanery is an American style restaurant which serves steak, seafood, salads and other pub-type foods.",
+        "bg_image": "rest_pics/bobbg.jpg",
+        "rest_id": "19"
+    },
+    {
+        "name": "Cheese Louise",
+        "type": ["American", " Casual"],
+        "address": "994 Willey St",
+        "url": "https://cheeselouisewv.com/",
+        "image": "rest_pics/cl.jpg",
+        "description": "Cheese Louise is an American restaurant that specializes in a variety of unique grilled cheeses and similar items.",
+        "bg_image": "rest_pics/clbgn.jpg",
+        "rest_id": "20"
+    },
+    {
+        "name": "Hill & Hollow",
+        "type": "Fine Dining",
+        "address": "709 Beechurst Ave #10",
+        "url": "https://hillandhollowwv.com/",
+        "image": "rest_pics/hh.jpg",
+        "description": "The Hill & Hollow is a more upscale restaurant which serves steaks, craft beers, and other similar items.",
+        "bg_image": "rest_pics/hhbg.jpg",
+        "rest_id": "21"
+    },
+    {
+        "name": "Chaang Thai Restaurant",
+        "type": "Thai",
+        "address": "361 High St",
+        "url": "https://chaangthai.com/",
+        "image": "rest_pics/ct.jpg",
+        "description": "Chaang Thai is self-described as the one and only authentic restaurant in Morgantown. They offer lunch specials, outdoor seating, and live music at scheduled times.",
+        "bg_image": "rest_pics/ctbg.jpg",
+        "rest_id": "22"
+    },
+    {
+        "name": "Salam Restaurant",
+        "type": "Middle Eastern",
+        "address": "350 High St",
+        "url": "http://salamrestaurantwv.net/menu",
+        "image": "rest_pics/sr.jpg",
+        "description": "A Middle Eastern-style restaurant, Salam Restaurant serves an assortment of sandwiches and pizzas with a Middle Eastern spin.",
+        "bg_image": "rest_pics/smbg.jpg",
+        "rest_id": "23"
+    },
+    {
+        "name": "Blue Moose Cafe",
+        "type": ["American", " Breakfast"],
+        "address": "248 Walnut St",
+        "url": "https://www.thebluemoosecafe.com/",
+        "image": "rest_pics/bm.jpg",
+        "description": "Blue Moose Cafe is a coffee house that serves coffee, tea, and a variety of pastries and snacks. They also offer various breakfast items.",
+        "bg_image": "rest_pics/bmbg.jpg",
+        "rest_id": "24"
+    },
+    {
+        "name": "Lefty's Place",
+        "type": "Pizza",
+        "address": "503 Burroughs Street Ste 102",
+        "url": "https://www.facebook.com/LeftysPlaceWV/",
+        "image": "rest_pics/lp.jpg",
+        "description": "Lefty's Place is a traditional pizza restaurant that also serves a variety of wings and salads.",
+        "bg_image": "rest_pics/lpbg.jpg",
+        "rest_id": "25"
+    },
+    {
+        "name": "Varsity Club",
+        "type": ["American", " Pub"],
+        "address": "910 Willowdale Rd",
+        "url": "https://www.thevarsityclubwv.com/",
+        "image": "rest_pics/varc.jpg",
+        "description": "A pub-style restaurant, Varsity Club is a go to spot for game days. They offer a variety of sandwiches and related pub grub.",
+        "bg_image": "rest_pics/vacbg.jpg",
+        "rest_id": "26"
+    },
+    {
+        "name": "The Grind",
+        "type": ["Coffee", " Breakfast", " American"],
+        "address": "168 Willey St",
+        "url": "https://www.facebook.com/thegrindwv/",
+        "image": "rest_pics/tg.jpg",
+        "description": "The grind is a coffee shop that serves breakfast and lunch items in a casual atmosphere.",
+        "bg_image": "rest_pics/tgbg.jpg",
+        "rest_id": "27"
+    },
+    {
+        "name": "Rio Verde",
+        "type": ["Mexican", " Casual"],
+        "address": "1417 Earl L Core Rd",
+        "url": "http://www.rioverdemorgantown.com/",
+        "image": "rest_pics/rv.jpg",
+        "description": "Rio Verde is an authentic Mexican restaurant that has a variety of options. They reccomend the Special Dinner, which includes a variety of what they have to offer.",
+        "bg_image": "rest_pics/rvbg.jpg",
+        "rest_id": "28"
+    },
+    {
+        "name": "Almost Heaven Bar & Grill",
+        "type": ["American", " Casual"],
+        "address": "374 High St",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60722-d12503538-Reviews-Almost_Heaven_Pub_And_Grill-Harpers_Ferry_West_Virginia.html",
+        "image": "rest_pics/ahbg.jpg",
+        "description": "The Almost Heaven Bar & Grill offer a variety of pub style foods and is a popular eatery among WVU students.",
+        "bg_image": "rest_pics/ahbgbg.jpg_large",
+        "rest_id": "29"
+    },
+    {
+        "name": "Saladworks",
+        "type": ["Salad", " American"],
+        "address": "406 Suncrest Towne Centre Drive",
+        "url": "https://restaurants.saladworks.com/wv/morgantown/406-suncrest-towne-centre-drive",
+        "image": "rest_pics/sw.jpg",
+        "description": "Saladworks is a unique restaurant that serves a large assortment of made-to-order salads. It is a great option for more health-conscious individuals.",
+        "bg_image": "rest_pics/swbg.jpg",
+        "rest_id": "30"
+    }
+]
