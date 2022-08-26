@@ -1,6 +1,6 @@
 **NOTE: This is not the original repository for this project. The original version has over 200 commits in it**
 
-**Link for accessing web app:** http://3.234.226.236/
+**Link for accessing web app: (This link no longer works as the AWS subscription for it has expired)** http://3.234.226.236/
 
 # WVU_CS230_2020.08_Group06
 ---
